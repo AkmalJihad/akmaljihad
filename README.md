@@ -1,1 +1,1 @@
-![](hello-world.gif=250x250)
+![](hello-world.gif) | width=100)
