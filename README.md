@@ -2,8 +2,6 @@
 
 <img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200"'>
 
-I am Akmal Jihad 😃. I am from Indonesia and currently doing my B.Eng from IPB University, Bogor. I love to explore and learn about new things.
-
 [![Linkedin Badge](https://img.shields.io/badge/-akmaljihad-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/akmaljihad/)](https://www.linkedin.com/in/akmaljihad/) 
 [![Gmail Badge](https://img.shields.io/badge/-akmaljihad@apps.ipb.ac.id-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:akmaljihad@apps.ipb.ac.id)](mailto:akmaljihad@apps.ipb.ac.id)
 
